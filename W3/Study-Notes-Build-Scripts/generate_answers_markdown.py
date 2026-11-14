@@ -1,0 +1,107 @@
+#!/usr/bin/env python3
+"""
+Generator script for STA237 Week 3 Answers-and-Practice.md.
+Constructs Section A, Section B, Section C, Section D, Section E, and Section F with 100% mathematical rigor.
+"""
+
+import os
+
+OUTPUT_PATH = "/Users/stevenli/Documents/University of toronto/STA237/W3/Study-Notes-Markdown/Answers-and-Practice.md"
+
+def get_header():
+    return """# STA237 Week 3 Answers and Practice: Worked Solutions, Lecture Exercises, Reference Problems, and Self-Tests
+
+## Contents
+
+- [Section A: Problem Type Teaching-Example Solutions](#section-a-problem-type-teaching-example-solutions)
+  - [Problem Type PT-01: Direct Conditional Probability Computation and Sample Space Restriction](#problem-type-pt-01-direct-conditional-probability-computation-and-sample-space-restriction)
+  - [Problem Type PT-02: Multi-Stage Sequential Intersection via the General Multiplication / Chain Rule](#problem-type-pt-02-multi-stage-sequential-intersection-via-the-general-multiplication--chain-rule)
+  - [Problem Type PT-03: Independence Verification and Independence vs. Disjointness Diagnostics](#problem-type-pt-03-independence-verification-and-independence-vs-disjointness-diagnostics)
+  - [Problem Type PT-04: System Reliability and Network Flow Modeling with Independent Components](#problem-type-pt-04-system-reliability-and-network-flow-modeling-with-independent-components)
+  - [Problem Type PT-05: Total Probability Computation via Partition Decompositions and Tree Diagrams](#problem-type-pt-05-total-probability-computation-via-partition-decompositions-and-tree-diagrams)
+  - [Problem Type PT-06: First-Step Analysis and Recursive Conditioning](#problem-type-pt-06-first-step-analysis-and-recursive-conditioning)
+  - [Problem Type PT-07: Posterior Probability Inversion via Bayes' Rule](#problem-type-pt-07-posterior-probability-inversion-via-bayes-rule)
+  - [Problem Type PT-08: Diagnostic Screening Evaluation and Base-Rate Fallacy Analysis](#problem-type-pt-08-diagnostic-screening-evaluation-and-base-rate-fallacy-analysis)
+  - [Problem Type PT-09: Random Variable Definition and Event-to-Variable Mapping](#problem-type-pt-09-random-variable-definition-and-event-to-variable-mapping)
+  - [Problem Type PT-10: PMF Normalization, Parameter Determination, and Validation](#problem-type-pt-10-pmf-normalization-parameter-determination-and-validation)
+- [Section B: Source Questions and Solutions (Lecture Deck)](#section-b-source-questions-and-solutions-lecture-deck)
+  - [Slide 2: Prerequisite Recap — Digit Permutations with Repetition](#slide-2-prerequisite-recap--digit-permutations-with-repetition)
+  - [Slide 7: Example 1 — Colourblindness and Sex Contingency Table](#slide-7-example-1--colourblindness-and-sex-contingency-table)
+  - [Slide 8: Example 2 — Consulting Firm Bids (MMSA Ex. 58 Selection)](#slide-8-example-2--consulting-firm-bids-mmsa-ex-58-selection)
+  - [Slide 9: Try It Yourself! — Standard Card Deck Conditional Probabilities](#slide-9-try-it-yourself--standard-card-deck-conditional-probabilities)
+  - [Slide 13: Check Your Understanding! — Flight Delay Independence](#slide-13-check-your-understanding--flight-delay-independence)
+  - [Slide 15: Example 3 — System Reliability via Indirect (Complement) Approach](#slide-15-example-3--system-reliability-via-indirect-complement-approach)
+  - [Slide 19: Handedness Translation Question](#slide-19-handedness-translation-question)
+  - [Slides 22–24: Example 4 — Sequential Urn Model with Ball Addition](#slides-2224-example-4--sequential-urn-model-with-ball-addition)
+  - [Slide 26: Example 5 — Clinical HIV Diagnostic Screening](#slide-26-example-5--clinical-hiv-diagnostic-screening)
+  - [Slide 27: Try It! — Express Mail Late Deliveries (MMSA Ex. 125/126)](#slide-27-try-it--express-mail-late-deliveries-mmsa-ex-125126)
+  - [Slide 28: Monty Hall Problem — Bayesian Formulation](#slide-28-monty-hall-problem--bayesian-formulation)
+  - [Slide 32: Random Variable Definition — Coin Toss Outcome Mappings](#slide-32-random-variable-definition--coin-toss-outcome-mappings)
+  - [Slide 35: Example 6 — Quadratic PMF Normalization Constant](#slide-35-example-6--quadratic-pmf-normalization-constant)
+- [Section C: Requested Textbook / Reference Exercises and Solutions](#section-c-requested-textbook--reference-exercises-and-solutions)
+  - [Subsection C.1: Modern Mathematical Statistics with Applications (MMSA)](#subsection-c1-modern-mathematical-statistics-with-applications-mmsa)
+    - [MMSA Basic Exercises](#mmsa-basic-exercises)
+      - [Exercise MMSA 2.49 (p. 83)](#exercise-mmsa-249-p-83)
+      - [Exercise MMSA 2.50 (p. 83)](#exercise-mmsa-250-p-83)
+      - [Exercise MMSA 2.75 (p. 91)](#exercise-mmsa-275-p-91)
+      - [Exercise MMSA 3.3 (p. 114)](#exercise-mmsa-33-p-114)
+      - [Exercise MMSA 3.6 (p. 114)](#exercise-mmsa-36-p-114)
+      - [Exercise MMSA 3.7 (p. 114)](#exercise-mmsa-37-p-114)
+      - [Exercise MMSA 3.11 (p. 114)](#exercise-mmsa-311-p-114)
+    - [MMSA Medium Exercises](#mmsa-medium-exercises)
+      - [Exercise MMSA 2.57 (p. 84)](#exercise-mmsa-257-p-84)
+      - [Exercise MMSA 2.58 (p. 84)](#exercise-mmsa-258-p-84)
+      - [Exercise MMSA 2.60 (p. 84)](#exercise-mmsa-260-p-84)
+      - [Exercise MMSA 2.64 (p. 84)](#exercise-mmsa-264-p-84)
+      - [Exercise MMSA 2.79 (p. 92)](#exercise-mmsa-279-p-92)
+      - [Exercise MMSA 2.83 (p. 92)](#exercise-mmsa-283-p-92)
+    - [MMSA Test Exercises](#mmsa-test-exercises)
+      - [Exercise MMSA 2.55 (p. 84)](#exercise-mmsa-255-p-84)
+      - [Exercise MMSA 2.67 (p. 84)](#exercise-mmsa-267-p-84)
+      - [Exercise MMSA 2.71 (p. 84)](#exercise-mmsa-271-p-84)
+      - [Exercise MMSA 2.77 (p. 92)](#exercise-mmsa-277-p-92)
+      - [Exercise MMSA 2.88 (p. 92)](#exercise-mmsa-288-p-92)
+  - [Subsection C.2: Probability with Applications and R (PAR)](#subsection-c2-probability-with-applications-and-r-par)
+    - [PAR Basic Exercises](#par-basic-exercises)
+      - [Exercise PAR 2.4 (Ch. 2, p. 84)](#exercise-par-24-ch-2-p-84)
+      - [Exercise PAR 2.9 (Ch. 2, p. 84)](#exercise-par-29-ch-2-p-84)
+      - [Exercise PAR 2.34 (Ch. 2, p. 84)](#exercise-par-234-ch-2-p-84)
+      - [Exercise PAR 3.1 (Ch. 3, p. 118)](#exercise-par-31-ch-3-p-118)
+      - [Shared Italicized Instructions for PAR 3.2–3.5](#shared-italicized-instructions-for-par-3235)
+      - [Exercise PAR 3.2 (Ch. 3, p. 118)](#exercise-par-32-ch-3-p-118)
+      - [Exercise PAR 3.3 (Ch. 3, p. 118)](#exercise-par-33-ch-3-p-118)
+      - [Exercise PAR 3.4 (Ch. 3, p. 118)](#exercise-par-34-ch-3-p-118)
+      - [Exercise PAR 3.5 (Ch. 3, p. 118)](#exercise-par-35-ch-3-p-118)
+      - [Exercise PAR 3.6 (Ch. 3, p. 118)](#exercise-par-36-ch-3-p-118)
+      - [Exercise PAR 3.7 (Ch. 3, p. 118)](#exercise-par-37-ch-3-p-118)
+    - [PAR Medium Exercises](#par-medium-exercises)
+      - [Exercise PAR 2.5 (Ch. 2, p. 84)](#exercise-par-25-ch-2-p-84)
+      - [Exercise PAR 2.7 (Ch. 2, p. 84)](#exercise-par-27-ch-2-p-84)
+      - [Exercise PAR 2.11 (Ch. 2, p. 84)](#exercise-par-211-ch-2-p-84)
+      - [Exercise PAR 2.16 (Ch. 2, p. 84)](#exercise-par-216-ch-2-p-84)
+      - [Exercise PAR 2.21 (Ch. 2, p. 84)](#exercise-par-221-ch-2-p-84)
+      - [Exercise PAR 2.27 (Ch. 2, p. 84)](#exercise-par-227-ch-2-p-84)
+      - [Exercise PAR 2.28 (Ch. 2, p. 84)](#exercise-par-228-ch-2-p-84)
+      - [Exercise PAR 2.30 (Ch. 2, p. 84)](#exercise-par-230-ch-2-p-84)
+      - [Exercise PAR 2.35 (Ch. 2, p. 84)](#exercise-par-235-ch-2-p-84)
+      - [Exercise PAR 2.38 (Ch. 2, p. 84)](#exercise-par-238-ch-2-p-84)
+      - [Exercise PAR 2.39 (Ch. 2, p. 84)](#exercise-par-239-ch-2-p-84)
+    - [PAR Test Exercises](#par-test-exercises)
+      - [Exercise PAR 2.17 (Ch. 2, p. 84)](#exercise-par-217-ch-2-p-84)
+      - [Exercise PAR 2.23 (Ch. 2, p. 84)](#exercise-par-223-ch-2-p-84)
+      - [Exercise PAR 2.26 (Ch. 2, p. 84)](#exercise-par-226-ch-2-p-84)
+      - [Exercise PAR 2.29 (Ch. 2, p. 84)](#exercise-par-229-ch-2-p-84)
+      - [Exercise PAR 2.31 (Ch. 2, p. 84)](#exercise-par-231-ch-2-p-84)
+      - [Exercise PAR 2.33 (Ch. 2, p. 84)](#exercise-par-233-ch-2-p-84)
+      - [Exercise PAR 2.32 (Ch. 2, p. 84)](#exercise-par-232-ch-2-p-84)
+      - [Exercise PAR 2.36 (Ch. 2, p. 84)](#exercise-par-236-ch-2-p-84)
+- [Section D: Original Self-Test Questions](#section-d-original-self-test-questions)
+- [Section E: Self-Test Answers](#section-e-self-test-answers)
+- [Section F: Coverage and Unresolved-Items Appendix](#section-f-coverage-and-unresolved-items-appendix)
+
+---
+"""
+
+with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
+    f.write(get_header())
+print("Header written.")

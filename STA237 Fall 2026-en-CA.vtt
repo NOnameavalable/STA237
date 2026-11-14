@@ -1,0 +1,2470 @@
+WEBVTT
+
+58fc79b3-8a52-4a9a-9ed0-9f87247045b2-0
+00:00:00.840 --> 00:00:05.186
+Welcome to Effective Learning in Stats
+237, the asynchronous version.
+
+58fc79b3-8a52-4a9a-9ed0-9f87247045b2-1
+00:00:05.186 --> 00:00:09.533
+My name is Christina Peter.
+I'm learning strategist in the Centre for
+
+58fc79b3-8a52-4a9a-9ed0-9f87247045b2-2
+00:00:09.533 --> 00:00:13.135
+Learning Strategy.
+You support and we'll be here together
+
+58fc79b3-8a52-4a9a-9ed0-9f87247045b2-3
+00:00:13.135 --> 00:00:17.109
+learning about all the ways that you can
+accomplish your stats,
+
+58fc79b3-8a52-4a9a-9ed0-9f87247045b2-4
+00:00:17.109 --> 00:00:18.910
+learning in an effective way.
+
+b48ee694-d04e-407c-8d03-16a71d38d8d8-0
+00:00:20.130 --> 00:00:24.756
+I encourage you to grab a pen or a pencil
+on a piece of paper so that you have
+
+b48ee694-d04e-407c-8d03-16a71d38d8d8-1
+00:00:24.756 --> 00:00:28.856
+something to take notes with.
+We will be providing you with some code
+
+b48ee694-d04e-407c-8d03-16a71d38d8d8-2
+00:00:28.856 --> 00:00:33.366
+words throughout this presentation,
+and at the end of the presentation there
+
+b48ee694-d04e-407c-8d03-16a71d38d8d8-3
+00:00:33.366 --> 00:00:37.700
+will be a pop quiz that you'll be able to
+get that bonus percentage from.
+
+a4dfaa5d-5a91-4bfd-a00f-5834691443c9-0
+00:00:40.260 --> 00:00:44.485
+This video has three main parts,
+and for the purposes of today,
+
+a4dfaa5d-5a91-4bfd-a00f-5834691443c9-1
+00:00:44.485 --> 00:00:49.701
+you'll watch all these parts together,
+but afterwards we will split these into
+
+a4dfaa5d-5a91-4bfd-a00f-5834691443c9-2
+00:00:49.701 --> 00:00:55.115
+three shorter videos that you can return
+to throughout the semester if you'd like
+
+a4dfaa5d-5a91-4bfd-a00f-5834691443c9-3
+00:00:55.115 --> 00:00:57.359
+to revisit some of these concepts.
+
+76c8e2ae-22c8-4e8d-a159-34e7d457c593-0
+00:00:58.390 --> 00:01:03.641
+The first part of this video,
+we'll talk about why Stats 237 is complex
+
+76c8e2ae-22c8-4e8d-a159-34e7d457c593-1
+00:01:03.641 --> 00:01:07.799
+and how we engage with complexity in
+effective learning.
+
+76c8e2ae-22c8-4e8d-a159-34e7d457c593-2
+00:01:07.799 --> 00:01:12.759
+The second component part is we're
+talking about effective learning
+
+76c8e2ae-22c8-4e8d-a159-34e7d457c593-3
+00:01:12.759 --> 00:01:18.157
+practices and how we can engage those
+when we're learning in this course.
+
+76c8e2ae-22c8-4e8d-a159-34e7d457c593-4
+00:01:18.157 --> 00:01:23.920
+And the third is understanding how to
+build deep understanding of the concepts
+
+76c8e2ae-22c8-4e8d-a159-34e7d457c593-5
+00:01:23.920 --> 00:01:28.370
+and how AI can actually help.
+But also some words of warning
+
+e11c00cf-7b47-427c-b08f-e1a50063bf0d-0
+00:01:28.440 --> 00:01:30.670
+on how I can work against you.
+
+18600ebf-ddd9-4f04-95bd-1340b603930b-0
+00:01:33.250 --> 00:01:39.524
+So the first thing we can all agree on,
+Stats and the process of learning are
+
+18600ebf-ddd9-4f04-95bd-1340b603930b-1
+00:01:39.524 --> 00:01:40.570
+very complex.
+
+d6741842-21fd-42bf-b911-c563ae9c2b6d-0
+00:01:41.830 --> 00:01:46.218
+Why is stats so hard? Well,
+it encourages us to engage with
+
+d6741842-21fd-42bf-b911-c563ae9c2b6d-1
+00:01:46.218 --> 00:01:49.510
+complexity.
+And when we think about the word
+
+d6741842-21fd-42bf-b911-c563ae9c2b6d-2
+00:01:49.510 --> 00:01:54.557
+complexity at its origins,
+it means a bunch of units put together or
+
+d6741842-21fd-42bf-b911-c563ae9c2b6d-3
+00:01:54.557 --> 00:01:57.630
+coming together like an apartment complex.
+
+3ef854b0-7c7c-446a-b274-70a5e7dc351b-0
+00:01:58.940 --> 00:02:04.802
+So complex doesn't necessarily though
+mean that it's difficult or impossible,
+
+3ef854b0-7c7c-446a-b274-70a5e7dc351b-1
+00:02:04.802 --> 00:02:10.966
+but that there are many discrete concepts
+that on their own can be challenging to
+
+3ef854b0-7c7c-446a-b274-70a5e7dc351b-2
+00:02:10.966 --> 00:02:14.949
+understand.
+And then when you put them all together,
+
+3ef854b0-7c7c-446a-b274-70a5e7dc351b-3
+00:02:14.949 --> 00:02:15.100
+it
+
+bb1bd1d9-f04f-45e3-9b64-5197f7d79182-0
+00:02:15.840 --> 00:02:20.840
+challenges you to think about them in a
+myriad of different ways.
+
+790c083c-b935-44d8-86f5-9bf8bdfa2bd1-0
+00:02:21.890 --> 00:02:28.045
+So the sum is equal to but also greater
+than the many parts and components that
+
+790c083c-b935-44d8-86f5-9bf8bdfa2bd1-1
+00:02:28.045 --> 00:02:30.200
+you are being introduced to.
+
+db271230-25bf-47dd-854c-98998a6bcc41-0
+00:02:31.640 --> 00:02:37.817
+And there are a lot of ways of studying
+that often flatten the complexity.
+
+db271230-25bf-47dd-854c-98998a6bcc41-1
+00:02:37.817 --> 00:02:44.571
+But we encourage you to engage with the
+complexity and will help you do that in a
+
+db271230-25bf-47dd-854c-98998a6bcc41-2
+00:02:44.571 --> 00:02:50.996
+way that is efficient and effective and
+gets you truly learning the material.
+
+db271230-25bf-47dd-854c-98998a6bcc41-3
+00:02:50.996 --> 00:02:57.421
+Your first keyword and 1st question on
+your asynchronous workshop pop quiz is
+
+db271230-25bf-47dd-854c-98998a6bcc41-4
+00:02:57.421 --> 00:02:58.080
+complex.
+
+ba0ce319-9d31-4485-92c1-95ae418f2b46-0
+00:03:00.350 --> 00:03:06.337
+So stats can be challenging because
+you're learning to become fluent in a
+
+ba0ce319-9d31-4485-92c1-95ae418f2b46-1
+00:03:06.337 --> 00:03:10.625
+whole new language.
+It's not just a type of content,
+
+ba0ce319-9d31-4485-92c1-95ae418f2b46-2
+00:03:10.625 --> 00:03:15.318
+but a way of interpreting the world and
+everything in it.
+
+ba0ce319-9d31-4485-92c1-95ae418f2b46-3
+00:03:15.318 --> 00:03:22.034
+And so you really have to to change your
+paradigm or way of understanding material
+
+ba0ce319-9d31-4485-92c1-95ae418f2b46-4
+00:03:22.034 --> 00:03:26.322
+in a new way.
+So part of it is that you also need to
+
+ba0ce319-9d31-4485-92c1-95ae418f2b46-5
+00:03:26.322 --> 00:03:29.640
+learn the why behind calculations. As you
+
+b9784d56-3efd-4958-99eb-ec28b3f2b3a2-0
+00:03:29.710 --> 00:03:33.322
+proceed in stats,
+you're going to be asked to engage with
+
+b9784d56-3efd-4958-99eb-ec28b3f2b3a2-1
+00:03:33.322 --> 00:03:38.241
+the material in a more complex way than
+just plugging in numbers to a formula.
+
+b9784d56-3efd-4958-99eb-ec28b3f2b3a2-2
+00:03:38.241 --> 00:03:43.348
+You're going to be asked to combine those
+formulas and really understand how they
+
+b9784d56-3efd-4958-99eb-ec28b3f2b3a2-3
+00:03:43.348 --> 00:03:43.660
+work.
+
+3258447e-b0be-41e7-95df-f33a944567d3-0
+00:03:44.440 --> 00:03:49.688
+You'll be asked to not only analyze data,
+but understand the mechanics behind the
+
+3258447e-b0be-41e7-95df-f33a944567d3-1
+00:03:49.688 --> 00:03:54.169
+inference of that data and the role of
+probability in data inference.
+
+3258447e-b0be-41e7-95df-f33a944567d3-2
+00:03:54.169 --> 00:03:57.817
+You'll need to practice regularly,
+but also efficiently.
+
+3258447e-b0be-41e7-95df-f33a944567d3-3
+00:03:57.817 --> 00:04:01.658
+So what do you need to know and how do
+you need to know it?
+
+3258447e-b0be-41e7-95df-f33a944567d3-4
+00:04:01.658 --> 00:04:06.458
+What do you need to be able to do with
+the knowledge that you're building?
+
+3258447e-b0be-41e7-95df-f33a944567d3-5
+00:04:06.458 --> 00:04:09.915
+And of course,
+you're balancing this course with many
+
+3258447e-b0be-41e7-95df-f33a944567d3-6
+00:04:09.915 --> 00:04:13.819
+other courses and priorities,
+so it can be a real challenge.
+
+3258447e-b0be-41e7-95df-f33a944567d3-7
+00:04:13.819 --> 00:04:15.100
+But we'll talk about
+
+93e590eb-2966-47c9-bdfb-96bbacbb2446-0
+00:04:15.170 --> 00:04:20.796
+how you can more efficiently learn
+statistics in a way that causes you to go
+
+93e590eb-2966-47c9-bdfb-96bbacbb2446-1
+00:04:20.796 --> 00:04:24.450
+deep and understand material in that
+complex way.
+
+20288bff-2e9d-4804-bd36-b7740980117d-0
+00:04:25.770 --> 00:04:30.206
+So first we want to think about what we
+know about learning and learning in
+
+20288bff-2e9d-4804-bd36-b7740980117d-1
+00:04:30.206 --> 00:04:34.817
+practice because there are some tools
+available to you out there that can help
+
+20288bff-2e9d-4804-bd36-b7740980117d-2
+00:04:34.817 --> 00:04:38.844
+you support your learning,
+but sometimes can actually take away some
+
+20288bff-2e9d-4804-bd36-b7740980117d-3
+00:04:38.844 --> 00:04:41.530
+of the very important components of
+learning.
+
+8c5b560b-dff3-4ced-8cdf-667a5d98e8bf-0
+00:04:42.530 --> 00:04:48.300
+So the first thing we know about learning
+is that learning takes time and we all
+
+8c5b560b-dff3-4ced-8cdf-667a5d98e8bf-1
+00:04:48.300 --> 00:04:54.213
+love shortcuts, but at the end of the day,
+we know that shortcuts at the beginning
+
+8c5b560b-dff3-4ced-8cdf-667a5d98e8bf-2
+00:04:54.213 --> 00:04:59.557
+often lead to more work later on.
+So investing time and effort up front to
+
+8c5b560b-dff3-4ced-8cdf-667a5d98e8bf-3
+00:04:59.557 --> 00:05:05.470
+ensure that you know a concept deeply can
+actually support long term retention and
+
+8c5b560b-dff3-4ced-8cdf-667a5d98e8bf-4
+00:05:05.470 --> 00:05:07.180
+increased understanding.
+
+4a6233a8-a72a-4860-a328-90b5948a2190-0
+00:05:09.210 --> 00:05:14.091
+The second thing we know is that learning
+benefits from desirable difficulty.
+
+4a6233a8-a72a-4860-a328-90b5948a2190-1
+00:05:14.091 --> 00:05:18.535
+Anyone who has learned to play an
+instrument or done sports knows that
+
+4a6233a8-a72a-4860-a328-90b5948a2190-2
+00:05:18.535 --> 00:05:21.852
+there's a little bit of difficulty in
+that practice,
+
+4a6233a8-a72a-4860-a328-90b5948a2190-3
+00:05:21.852 --> 00:05:25.482
+but practice does make perfect,
+or at least a lot better.
+
+4a6233a8-a72a-4860-a328-90b5948a2190-4
+00:05:25.482 --> 00:05:29.800
+So a little bit of struggle does help you
+move beyond what you know.
+
+4a6233a8-a72a-4860-a328-90b5948a2190-5
+00:05:29.800 --> 00:05:34.181
+And if it's not difficult,
+it's probably not very effective. You are,
+
+4a6233a8-a72a-4860-a328-90b5948a2190-6
+00:05:34.181 --> 00:05:38.250
+after all, building new neural pathways,
+and that's challenging.
+
+5f411c5f-19e9-447c-adfd-f7288c47a0aa-0
+00:05:39.740 --> 00:05:44.133
+The third thing is that learning is
+iterative. It's built upon reflection.
+
+5f411c5f-19e9-447c-adfd-f7288c47a0aa-1
+00:05:44.133 --> 00:05:48.878
+We want you to evaluate what you're being
+asked to do and also evaluate what you
+
+5f411c5f-19e9-447c-adfd-f7288c47a0aa-2
+00:05:48.878 --> 00:05:53.740
+know and what you don't know so that you
+can build up those knowledges and skills.
+
+2835d23c-a710-4f18-b363-cd7ca0fc8639-0
+00:05:55.230 --> 00:05:59.266
+And last is that learning gains don't
+always match our perception.
+
+2835d23c-a710-4f18-b363-cd7ca0fc8639-1
+00:05:59.266 --> 00:06:03.484
+Sometimes we think we've learned
+something and it can feel like we've
+
+2835d23c-a710-4f18-b363-cd7ca0fc8639-2
+00:06:03.484 --> 00:06:07.762
+learned something, but we haven't.
+And there's a term called cognitive
+
+2835d23c-a710-4f18-b363-cd7ca0fc8639-3
+00:06:07.762 --> 00:06:11.075
+fluency illusion,
+and that's sitting in class thinking
+
+2835d23c-a710-4f18-b363-cd7ca0fc8639-4
+00:06:11.075 --> 00:06:14.449
+things feel clear.
+But then when you go to a test or an
+
+2835d23c-a710-4f18-b363-cd7ca0fc8639-5
+00:06:14.449 --> 00:06:17.582
+assessment,
+you realize you don't know the material
+
+2835d23c-a710-4f18-b363-cd7ca0fc8639-6
+00:06:17.582 --> 00:06:19.330
+as well as you really should.
+
+9f057024-934e-4bdd-9940-81815ca36b4a-0
+00:06:21.070 --> 00:06:26.004
+So when we think about some of the tools
+available to us like AI,
+
+9f057024-934e-4bdd-9940-81815ca36b4a-1
+00:06:26.004 --> 00:06:30.790
+how can AI help or get in the way of
+these learning principles?
+
+e43ee0c5-d2b2-4ace-a111-8635cfbba659-0
+00:06:32.750 --> 00:06:35.990
+Well,
+one thing to keep in mind is that we want
+
+e43ee0c5-d2b2-4ace-a111-8635cfbba659-1
+00:06:35.990 --> 00:06:40.310
+to resist frictionless learning.
+What do we mean by that? Well,
+
+e43ee0c5-d2b2-4ace-a111-8635cfbba659-2
+00:06:40.310 --> 00:06:45.170
+when you have a problem solving
+assessment or sample problems to solve,
+
+e43ee0c5-d2b2-4ace-a111-8635cfbba659-3
+00:06:45.170 --> 00:06:50.772
+is the purpose of solving those problems
+getting to the right answer as quickly as
+
+e43ee0c5-d2b2-4ace-a111-8635cfbba659-4
+00:06:50.772 --> 00:06:51.380
+possible,
+
+32885b0d-cc5a-4262-83d3-ef54ea50b309-0
+00:06:52.130 --> 00:06:55.564
+or is it actually doing the problem
+solving?
+
+32885b0d-cc5a-4262-83d3-ef54ea50b309-1
+00:06:55.564 --> 00:07:01.670
+And I think a lot of us intuitively know
+it's actually the process of doing the
+
+32885b0d-cc5a-4262-83d3-ef54ea50b309-2
+00:07:01.670 --> 00:07:05.333
+problem solving that's engaging us in
+learning.
+
+32885b0d-cc5a-4262-83d3-ef54ea50b309-3
+00:07:05.333 --> 00:07:11.210
+But it's also the harder thing to do when
+you think about reading a summary.
+
+baf7e96d-7482-4f42-89f3-0b70fafa9522-0
+00:07:11.910 --> 00:07:18.156
+Is the purpose to read that summary and
+is it to interpret or is it to
+
+baf7e96d-7482-4f42-89f3-0b70fafa9522-1
+00:07:18.156 --> 00:07:22.820
+consolidate rather than simply just
+reading it over?
+
+79f37215-2fe9-4a18-a128-d3f49c771759-0
+00:07:23.990 --> 00:07:30.338
+So what we can sometimes do with AI is
+remove the friction to make things easier,
+
+79f37215-2fe9-4a18-a128-d3f49c771759-1
+00:07:30.338 --> 00:07:35.139
+but that manageable friction is actually
+the key to learning.
+
+79f37215-2fe9-4a18-a128-d3f49c771759-2
+00:07:35.139 --> 00:07:41.410
+So you want to study in ways that you'll
+be assessed on your tests and midterms.
+
+79f37215-2fe9-4a18-a128-d3f49c771759-3
+00:07:41.410 --> 00:07:47.372
+My guess is you won't have ChatGPT,
+or any other AI available to you on your
+
+79f37215-2fe9-4a18-a128-d3f49c771759-4
+00:07:47.372 --> 00:07:51.243
+midterm.
+So immediately turning to an AI tool for
+
+79f37215-2fe9-4a18-a128-d3f49c771759-5
+00:07:51.243 --> 00:07:54.960
+the answer is not going to encourage your
+brain
+
+06b149b1-0d89-464b-b793-f39e3c24a6f2-0
+00:07:55.090 --> 00:08:00.750
+to start creating those neural pathways
+that it needs to learn material deeply.
+
+06b149b1-0d89-464b-b793-f39e3c24a6f2-1
+00:08:00.750 --> 00:08:05.985
+You also want to use evidence based
+strategies that we'll talk about like
+
+06b149b1-0d89-464b-b793-f39e3c24a6f2-2
+00:08:05.985 --> 00:08:10.726
+self testing without tech. Again,
+using tech can feel really good,
+
+06b149b1-0d89-464b-b793-f39e3c24a6f2-3
+00:08:10.726 --> 00:08:16.598
+but it doesn't actually make those neural
+pathways that add to that deep learning.
+
+06b149b1-0d89-464b-b793-f39e3c24a6f2-4
+00:08:16.598 --> 00:08:20.701
+So you don't want to offload your
+learning when using AI.
+
+06b149b1-0d89-464b-b793-f39e3c24a6f2-5
+00:08:20.701 --> 00:08:25.230
+You can use AI to help you build your
+skill, but there's a very
+
+9924b0ad-1946-45a5-abdf-f771e59a2886-0
+00:08:25.390 --> 00:08:30.771
+different way of using it to help you
+build skill as opposed to making things
+
+9924b0ad-1946-45a5-abdf-f771e59a2886-1
+00:08:30.771 --> 00:08:32.220
+easy and comfortable.
+
+41b092e1-0bef-4050-951a-54f004da2c60-0
+00:08:33.660 --> 00:08:39.032
+Another way to think about this is,
+is AI making the work easy for me or is
+
+41b092e1-0bef-4050-951a-54f004da2c60-1
+00:08:39.032 --> 00:08:44.404
+it motivating me to try hard things and
+is it helping me to do hard things?
+
+41b092e1-0bef-4050-951a-54f004da2c60-2
+00:08:44.404 --> 00:08:49.847
+We think about two loops of using AI.
+The 1st is the look it up loop give me
+
+41b092e1-0bef-4050-951a-54f004da2c60-3
+00:08:49.847 --> 00:08:54.230
+the answer to this question.
+The second is the learning loop.
+
+394bd98c-1200-42f0-a3aa-1398d1c2f0a4-0
+00:08:55.130 --> 00:08:59.054
+So in the lookup loop,
+we think about looking up the answer to a
+
+394bd98c-1200-42f0-a3aa-1398d1c2f0a4-1
+00:08:59.054 --> 00:09:02.194
+question,
+but then what this often results in is we
+
+394bd98c-1200-42f0-a3aa-1398d1c2f0a4-2
+00:09:02.194 --> 00:09:06.058
+look up the answer, we see it,
+we don't remember it, we forget,
+
+394bd98c-1200-42f0-a3aa-1398d1c2f0a4-3
+00:09:06.058 --> 00:09:10.646
+and then we have to look it up again.
+This is something we call deskilling,
+
+394bd98c-1200-42f0-a3aa-1398d1c2f0a4-4
+00:09:10.646 --> 00:09:15.054
+so it's not adding any learning.
+It makes us feel good in the moment and
+
+394bd98c-1200-42f0-a3aa-1398d1c2f0a4-5
+00:09:15.054 --> 00:09:18.677
+it makes us feel like we're efficiently
+getting to answers,
+
+394bd98c-1200-42f0-a3aa-1398d1c2f0a4-6
+00:09:18.677 --> 00:09:23.627
+but it doesn't actually encourage us to
+do the thing that will be tested on later
+
+394bd98c-1200-42f0-a3aa-1398d1c2f0a4-7
+00:09:23.627 --> 00:09:25.560
+on. The learning loop is instead
+
+180d6dd3-eb10-46c1-8ffe-d8d1c9444024-0
+00:09:25.700 --> 00:09:30.298
+thinking about help,
+how AI can help us retrieve or self test,
+
+180d6dd3-eb10-46c1-8ffe-d8d1c9444024-1
+00:09:30.298 --> 00:09:34.386
+then reflecting on what we've asked AI to
+help us with.
+
+180d6dd3-eb10-46c1-8ffe-d8d1c9444024-2
+00:09:34.386 --> 00:09:39.787
+And that encourages us to remember.
+And that's actually using AI to build
+
+180d6dd3-eb10-46c1-8ffe-d8d1c9444024-3
+00:09:39.787 --> 00:09:44.970
+more skills. So as you're using Gen. AI,
+if you choose to use Gen. AI,
+
+180d6dd3-eb10-46c1-8ffe-d8d1c9444024-4
+00:09:44.970 --> 00:09:49.714
+think about how it can support skill
+building rather deskilling.
+
+180d6dd3-eb10-46c1-8ffe-d8d1c9444024-5
+00:09:49.714 --> 00:09:55.700
+And we'll continue coming back to this
+question as we work through this workshop.
+
+810ea921-95b2-4ff4-ad2e-5ee63a46dc25-0
+00:09:56.390 --> 00:10:01.443
+So there are two main practices that
+really support effective learning,
+
+810ea921-95b2-4ff4-ad2e-5ee63a46dc25-1
+00:10:01.443 --> 00:10:07.129
+especially in problem solving courses.
+You may have heard from these on learning
+
+810ea921-95b2-4ff4-ad2e-5ee63a46dc25-2
+00:10:07.129 --> 00:10:10.639
+talk or from workshops or just your own
+research.
+
+810ea921-95b2-4ff4-ad2e-5ee63a46dc25-3
+00:10:10.639 --> 00:10:16.184
+But these two skills and two practices
+can really support those neural pathway
+
+810ea921-95b2-4ff4-ad2e-5ee63a46dc25-4
+00:10:16.184 --> 00:10:19.413
+development and also encourage deep
+learning.
+
+810ea921-95b2-4ff4-ad2e-5ee63a46dc25-5
+00:10:19.413 --> 00:10:22.993
+The 1st that we'll talk about is space
+repetition,
+
+810ea921-95b2-4ff4-ad2e-5ee63a46dc25-6
+00:10:22.993 --> 00:10:25.450
+and the second is active retrieval.
+
+870af4ba-51bb-4229-8d02-12d91c82ddbc-0
+00:10:26.730 --> 00:10:31.999
+So it turns out that forgetting something
+is actually a necessary part of forming
+
+870af4ba-51bb-4229-8d02-12d91c82ddbc-1
+00:10:31.999 --> 00:10:37.204
+memories that can be reliably accessed.
+There's a key concept behind this called
+
+870af4ba-51bb-4229-8d02-12d91c82ddbc-2
+00:10:37.204 --> 00:10:40.546
+spaced repetition,
+and spaced repetition is a study
+
+870af4ba-51bb-4229-8d02-12d91c82ddbc-3
+00:10:40.546 --> 00:10:45.687
+technique where you revisit information
+at set intervals in order to strengthen
+
+870af4ba-51bb-4229-8d02-12d91c82ddbc-4
+00:10:45.687 --> 00:10:49.350
+the memory of it.
+The idea is when you're revisiting the
+
+870af4ba-51bb-4229-8d02-12d91c82ddbc-5
+00:10:49.350 --> 00:10:52.563
+piece of information,
+you've almost forgotten it,
+
+870af4ba-51bb-4229-8d02-12d91c82ddbc-6
+00:10:52.563 --> 00:10:57.639
+but you bring it back to the front of
+your mind. So here you see the blue line
+
+ed66d2c1-7df3-44ec-835b-377251d7421c-0
+00:10:57.710 --> 00:11:02.193
+is the forgetting curve.
+If we don't revisit material over time,
+
+ed66d2c1-7df3-44ec-835b-377251d7421c-1
+00:11:02.193 --> 00:11:06.055
+we tend to forget it.
+But if we do revisit it one time,
+
+ed66d2c1-7df3-44ec-835b-377251d7421c-2
+00:11:06.055 --> 00:11:09.090
+another time, 1/3 time, 1/4 time,
+etcetera.
+
+edce23a9-719f-4878-b2d0-d8ff045911f6-0
+00:11:09.800 --> 00:11:15.681
+And what we do is we increase our ability
+to remember and recall and use that
+
+edce23a9-719f-4878-b2d0-d8ff045911f6-1
+00:11:15.681 --> 00:11:17.340
+information over time.
+
+ba3d4158-762c-443d-a117-a4d4c7ff6eb2-0
+00:11:20.280 --> 00:11:26.157
+Space repetition is a pretty old theory.
+It has a ton of research over a very long
+
+ba3d4158-762c-443d-a117-a4d4c7ff6eb2-1
+00:11:26.157 --> 00:11:30.051
+period of time.
+But there's a lot of emphasis in early
+
+ba3d4158-762c-443d-a117-a4d4c7ff6eb2-2
+00:11:30.051 --> 00:11:35.220
+discussions of the practice focus on
+repetition and the time in between.
+
+ba3d4158-762c-443d-a117-a4d4c7ff6eb2-3
+00:11:35.220 --> 00:11:40.885
+And so this emphasis was often put on a
+kind of passive re exposure to material
+
+ba3d4158-762c-443d-a117-a4d4c7ff6eb2-4
+00:11:40.885 --> 00:11:45.275
+after time has lapsed.
+But more recent research also suggests
+
+ba3d4158-762c-443d-a117-a4d4c7ff6eb2-5
+00:11:45.275 --> 00:11:50.090
+that while passive exposure to material
+overtime sort of solidifies
+
+d7a0cd48-c7c5-47fe-a309-6e5923d4cf2d-0
+00:11:50.160 --> 00:11:54.862
+knowledge,
+actively struggling to recall information
+
+d7a0cd48-c7c5-47fe-a309-6e5923d4cf2d-1
+00:11:54.862 --> 00:11:57.880
+actually allows for consolidation.
+
+bd8b53a9-6e39-4eb4-99a6-a787cc151ee2-0
+00:11:58.780 --> 00:12:01.993
+That is,
+the harder you work to recall information,
+
+bd8b53a9-6e39-4eb4-99a6-a787cc151ee2-1
+00:12:01.993 --> 00:12:06.380
+the deeper you will learn it.
+You can't wait until you entirely forget
+
+bd8b53a9-6e39-4eb4-99a6-a787cc151ee2-2
+00:12:06.380 --> 00:12:09.840
+the information.
+But partially forgetting something and
+
+bd8b53a9-6e39-4eb4-99a6-a787cc151ee2-3
+00:12:09.840 --> 00:12:14.290
+then struggling to remember it is a
+necessary part of forming memories.
+
+827f203a-7106-4457-8d6e-e614e13caf34-0
+00:12:17.990 --> 00:12:22.616
+When we try to remember things,
+we signal to our memories that this piece
+
+827f203a-7106-4457-8d6e-e614e13caf34-1
+00:12:22.616 --> 00:12:26.617
+of information is important.
+Store it somewhere safe and easily
+
+827f203a-7106-4457-8d6e-e614e13caf34-2
+00:12:26.617 --> 00:12:29.805
+accessible.
+Using our memories and deliberate ways
+
+827f203a-7106-4457-8d6e-e614e13caf34-3
+00:12:29.805 --> 00:12:34.307
+changes how our memories work.
+So when we're trying to remember things,
+
+827f203a-7106-4457-8d6e-e614e13caf34-4
+00:12:34.307 --> 00:12:37.370
+we are actually exercising our brain
+telling it.
+
+827f203a-7106-4457-8d6e-e614e13caf34-5
+00:12:37.370 --> 00:12:42.372
+This piece of information is important.
+Store it somewhere safe and somewhere I
+
+827f203a-7106-4457-8d6e-e614e13caf34-6
+00:12:42.372 --> 00:12:43.810
+can get to it reliably.
+
+eafe8758-36cb-4c2f-892d-131a1f110aac-0
+00:12:45.990 --> 00:12:50.791
+Let's dive into that second practice,
+which is effortfully remembering
+
+eafe8758-36cb-4c2f-892d-131a1f110aac-1
+00:12:50.791 --> 00:12:54.442
+information.
+This practice is called active recall or
+
+eafe8758-36cb-4c2f-892d-131a1f110aac-2
+00:12:54.442 --> 00:12:58.229
+retrieval practice,
+and it's basically practicing these
+
+eafe8758-36cb-4c2f-892d-131a1f110aac-3
+00:12:58.229 --> 00:13:02.354
+skills that you are asked to demonstrate
+on tests and exams.
+
+eafe8758-36cb-4c2f-892d-131a1f110aac-4
+00:13:02.354 --> 00:13:06.480
+That is identifying what you know and
+showing what you know.
+
+e3a1e4e7-f373-420b-a5f5-bbff0f896935-0
+00:13:07.380 --> 00:13:12.497
+When you do this practice throughout the
+semester as you're learning new concepts,
+
+e3a1e4e7-f373-420b-a5f5-bbff0f896935-1
+00:13:12.497 --> 00:13:15.642
+you're able to identify what you know
+really well,
+
+e3a1e4e7-f373-420b-a5f5-bbff0f896935-2
+00:13:15.642 --> 00:13:20.390
+but you're also able to identify those
+holes in your learning way before you
+
+e3a1e4e7-f373-420b-a5f5-bbff0f896935-3
+00:13:20.390 --> 00:13:23.349
+have to demonstrate your work on an
+assessment.
+
+b6c82bf8-3cbc-4733-9804-30051f41470a-0
+00:13:24.790 --> 00:13:30.425
+The most basic form of active retrieval
+is using something like a flash card.
+
+b6c82bf8-3cbc-4733-9804-30051f41470a-1
+00:13:30.425 --> 00:13:35.843
+Creating your own flash cards using
+physical flash cards or flash card app
+
+b6c82bf8-3cbc-4733-9804-30051f41470a-2
+00:13:35.843 --> 00:13:41.406
+like Monkey can be really helpful in
+recovering terminology certain concepts
+
+b6c82bf8-3cbc-4733-9804-30051f41470a-3
+00:13:41.406 --> 00:13:47.330
+and using them over and over again gives
+you that spaced repetition that you need
+
+b6c82bf8-3cbc-4733-9804-30051f41470a-4
+00:13:47.330 --> 00:13:49.569
+to build those neural pathways.
+
+e5ec4ab3-8459-42ff-ae02-0caaabb9e990-0
+00:13:50.300 --> 00:13:54.986
+You might want to also use images or
+drawings to help trigger those memories
+
+e5ec4ab3-8459-42ff-ae02-0caaabb9e990-1
+00:13:54.986 --> 00:13:59.794
+and reciting answers out loud or talking
+about them can help you dually encode
+
+e5ec4ab3-8459-42ff-ae02-0caaabb9e990-2
+00:13:59.794 --> 00:14:03.203
+that information in multiple components
+of your memory,
+
+e5ec4ab3-8459-42ff-ae02-0caaabb9e990-3
+00:14:03.203 --> 00:14:06.490
+both seeing information but also hearing
+information.
+
+2cf6b104-34b6-4389-8266-b43782f02e2d-0
+00:14:08.010 --> 00:14:12.786
+The next tier up of retrieval practice
+from flash cards is retrieval mapping.
+
+2cf6b104-34b6-4389-8266-b43782f02e2d-1
+00:14:12.786 --> 00:14:15.602
+So this is now not only remembering
+concepts,
+
+2cf6b104-34b6-4389-8266-b43782f02e2d-2
+00:14:15.602 --> 00:14:18.725
+but remembering their relationship to one
+another.
+
+2cf6b104-34b6-4389-8266-b43782f02e2d-3
+00:14:18.725 --> 00:14:21.848
+So create these concept maps from your
+own memory.
+
+2cf6b104-34b6-4389-8266-b43782f02e2d-4
+00:14:21.848 --> 00:14:26.012
+Think about if you were to teach somebody
+a concept in this course,
+
+2cf6b104-34b6-4389-8266-b43782f02e2d-5
+00:14:26.012 --> 00:14:29.625
+how would you teach it to them?
+What would you start with?
+
+2cf6b104-34b6-4389-8266-b43782f02e2d-6
+00:14:29.625 --> 00:14:32.380
+What information do they need to know
+first?
+
+2cf6b104-34b6-4389-8266-b43782f02e2d-7
+00:14:32.380 --> 00:14:35.810
+Then what information do you need to
+introduce to them?
+
+7f5f88a8-9ee6-4129-8291-9e4d5ff39c86-0
+00:14:36.540 --> 00:14:39.726
+When you get stuck or you forget where
+you're going,
+
+7f5f88a8-9ee6-4129-8291-9e4d5ff39c86-1
+00:14:39.726 --> 00:14:44.536
+that's a good gap in your memory to go
+back and revisit the material and get to
+
+7f5f88a8-9ee6-4129-8291-9e4d5ff39c86-2
+00:14:44.536 --> 00:14:48.744
+learn it a little bit better.
+You can use this for writing essays for
+
+7f5f88a8-9ee6-4129-8291-9e4d5ff39c86-3
+00:14:48.744 --> 00:14:52.532
+for writing outlines for essays.
+You can use it as a timeline,
+
+7f5f88a8-9ee6-4129-8291-9e4d5ff39c86-4
+00:14:52.532 --> 00:14:56.500
+or you can think about procedures in
+responding to a problem set.
+
+ef666e91-9cda-4944-a369-ea1bc609ecc9-0
+00:14:57.200 --> 00:15:01.859
+Try to think about the material you're
+learning from in a few different ways.
+
+ef666e91-9cda-4944-a369-ea1bc609ecc9-1
+00:15:01.859 --> 00:15:04.786
+The first thing is what do you need to
+remember?
+
+ef666e91-9cda-4944-a369-ea1bc609ecc9-2
+00:15:04.786 --> 00:15:09.386
+What are the things that you need to know
+in order to recognize terminology?
+
+ef666e91-9cda-4944-a369-ea1bc609ecc9-3
+00:15:09.386 --> 00:15:12.732
+So for example,
+those flash cards or creating summaries
+
+ef666e91-9cda-4944-a369-ea1bc609ecc9-4
+00:15:12.732 --> 00:15:17.332
+of notes from class can be that first
+building block of really understanding
+
+ef666e91-9cda-4944-a369-ea1bc609ecc9-5
+00:15:17.332 --> 00:15:17.870
+material.
+
+07011391-4e40-4258-a2c4-4884b33ea70b-0
+00:15:18.750 --> 00:15:25.008
+The second layer is thinking about what
+you need to engage with to understand the
+
+07011391-4e40-4258-a2c4-4884b33ea70b-1
+00:15:25.008 --> 00:15:28.595
+relationships between aspects of the
+material.
+
+07011391-4e40-4258-a2c4-4884b33ea70b-2
+00:15:28.595 --> 00:15:34.549
+So think about charts and tables of
+related concepts, concept maps, diagrams,
+
+07011391-4e40-4258-a2c4-4884b33ea70b-3
+00:15:34.549 --> 00:15:39.128
+things like timelines.
+Then the third component is thinking
+
+07011391-4e40-4258-a2c4-4884b33ea70b-4
+00:15:39.128 --> 00:15:44.090
+about supporting yourself as you put the
+material into practice.
+
+918ab22d-5130-4dd5-8975-5ed26dc84942-0
+00:15:44.900 --> 00:15:48.595
+So building a methodological knowledge of
+procedure.
+
+918ab22d-5130-4dd5-8975-5ed26dc84942-1
+00:15:48.595 --> 00:15:52.290
+This can be things like decision trees,
+flow charts,
+
+918ab22d-5130-4dd5-8975-5ed26dc84942-2
+00:15:52.290 --> 00:15:56.822
+narrating your rationale as you're
+working through problem sets.
+
+918ab22d-5130-4dd5-8975-5ed26dc84942-3
+00:15:56.822 --> 00:16:02.191
+So each one of these building blocks is
+foundational to working through when
+
+918ab22d-5130-4dd5-8975-5ed26dc84942-4
+00:16:02.191 --> 00:16:07.560
+you're trying to learn a new concept.
+The 1st is just becoming fluent in the
+
+918ab22d-5130-4dd5-8975-5ed26dc84942-5
+00:16:07.560 --> 00:16:10.419
+concept,
+the second is understanding the
+
+918ab22d-5130-4dd5-8975-5ed26dc84942-6
+00:16:10.419 --> 00:16:15.230
+relationship between concepts,
+and the third is actually using those
+
+34973745-559b-4a8f-9b3a-ae61b93c08f4-0
+00:16:15.510 --> 00:16:19.870
+materials and relationships to respond to
+a problem.
+
+4d730415-5c10-4f8a-aca4-992f2ac8e722-0
+00:16:20.590 --> 00:16:23.340
+So let's put this into practical terms.
+
+8f25bec1-2e48-4e0a-ac61-584b03dd5c52-0
+00:16:24.150 --> 00:16:28.863
+What are the examples of active recall
+and space review that you can use in this
+
+8f25bec1-2e48-4e0a-ac61-584b03dd5c52-1
+00:16:28.863 --> 00:16:32.239
+course? First,
+you can build a flash cards of vocabulary,
+
+8f25bec1-2e48-4e0a-ac61-584b03dd5c52-2
+00:16:32.239 --> 00:16:35.440
+concepts, theories,
+equations quiz yourself every day.
+
+d45b0946-bdc5-4f23-861f-49fb443f49ac-0
+00:16:36.400 --> 00:16:39.833
+Second,
+you can build mind maps of relationships
+
+d45b0946-bdc5-4f23-861f-49fb443f49ac-1
+00:16:39.833 --> 00:16:45.019
+between concepts after lecture.
+Try to build these concept maps over time
+
+d45b0946-bdc5-4f23-861f-49fb443f49ac-2
+00:16:45.019 --> 00:16:45.790
+for memory.
+
+19cffa75-f2cc-497c-bcd8-4dfd29b7e04a-0
+00:16:46.820 --> 00:16:51.003
+The third thing you can do is try
+tutorial quiz questions from memory.
+
+19cffa75-f2cc-497c-bcd8-4dfd29b7e04a-1
+00:16:51.003 --> 00:16:55.658
+Review your answers with your notes to
+fill in the gaps. Correct those errors,
+
+19cffa75-f2cc-497c-bcd8-4dfd29b7e04a-2
+00:16:55.658 --> 00:17:00.371
+and then revisit those errors to make
+sure that you're not making them over and
+
+19cffa75-f2cc-497c-bcd8-4dfd29b7e04a-3
+00:17:00.371 --> 00:17:03.376
+over again.
+And then you have learning outcomes in
+
+19cffa75-f2cc-497c-bcd8-4dfd29b7e04a-4
+00:17:03.376 --> 00:17:06.322
+your syllabus to help you focus your
+preparation.
+
+19cffa75-f2cc-497c-bcd8-4dfd29b7e04a-5
+00:17:06.322 --> 00:17:10.859
+You can use these learning outcomes as
+prompts to help you teach material to
+
+19cffa75-f2cc-497c-bcd8-4dfd29b7e04a-6
+00:17:10.859 --> 00:17:14.453
+yourself to study groups,
+and use those learning outcomes to
+
+19cffa75-f2cc-497c-bcd8-4dfd29b7e04a-7
+00:17:14.453 --> 00:17:17.400
+identify whether you have gaps in your
+knowledge.
+
+859ab3cc-cd2b-4611-8301-7a84ca432c47-0
+00:17:18.930 --> 00:17:25.101
+So let's just revisit where AI can get in
+the way of those good practices of space
+
+859ab3cc-cd2b-4611-8301-7a84ca432c47-1
+00:17:25.101 --> 00:17:26.960
+review and active recall.
+
+fcdfe912-0397-40ff-a21e-e4449c2ff4dc-0
+00:17:27.670 --> 00:17:30.748
+And the first piece is it can interrupt
+that loop.
+
+fcdfe912-0397-40ff-a21e-e4449c2ff4dc-1
+00:17:30.748 --> 00:17:35.759
+It gets you the answer almost instantly.
+And so you're not doing any of that space
+
+fcdfe912-0397-40ff-a21e-e4449c2ff4dc-2
+00:17:35.759 --> 00:17:38.415
+review,
+effortful remembering of a concept.
+
+fcdfe912-0397-40ff-a21e-e4449c2ff4dc-3
+00:17:38.415 --> 00:17:42.278
+The second thing is when you read the
+answer that AI gives you,
+
+fcdfe912-0397-40ff-a21e-e4449c2ff4dc-4
+00:17:42.278 --> 00:17:47.288
+you recognize the terms and the approach
+because you do have some familiarity just
+
+fcdfe912-0397-40ff-a21e-e4449c2ff4dc-5
+00:17:47.288 --> 00:17:50.669
+from lecture and from being introduced to
+the material.
+
+fcdfe912-0397-40ff-a21e-e4449c2ff4dc-6
+00:17:50.669 --> 00:17:55.378
+So when you read the answer and you
+recognize those terms and the approach to
+
+fcdfe912-0397-40ff-a21e-e4449c2ff4dc-7
+00:17:55.378 --> 00:17:59.000
+the question, you think, oh,
+I know exactly how to do this.
+
+3a9ab11b-aefb-47f8-9c24-994b8721754d-0
+00:17:59.800 --> 00:18:04.317
+And that's where we get into that fluency
+illusion versus genuine learning.
+
+3a9ab11b-aefb-47f8-9c24-994b8721754d-1
+00:18:04.317 --> 00:18:08.300
+Under the fluency illusion,
+which it's really hard to know whether
+
+3a9ab11b-aefb-47f8-9c24-994b8721754d-2
+00:18:08.300 --> 00:18:11.094
+you have,
+that is you feel like you understand
+
+3a9ab11b-aefb-47f8-9c24-994b8721754d-3
+00:18:11.094 --> 00:18:13.888
+things,
+information seems pretty clear and you
+
+3a9ab11b-aefb-47f8-9c24-994b8721754d-4
+00:18:13.888 --> 00:18:17.812
+are familiar with concepts. However,
+once you do get to the exam,
+
+3a9ab11b-aefb-47f8-9c24-994b8721754d-5
+00:18:17.812 --> 00:18:22.805
+that fluency illusion sort of disappears.
+When you are looking at genuine learning,
+
+3a9ab11b-aefb-47f8-9c24-994b8721754d-6
+00:18:22.805 --> 00:18:26.729
+you want robust comprehension.
+You want to know how to apply that
+
+3a9ab11b-aefb-47f8-9c24-994b8721754d-7
+00:18:26.729 --> 00:18:29.880
+knowledge.
+So that stacked approach of understanding
+
+f6616683-7925-4d21-a698-58bfdfaff127-0
+00:18:29.950 --> 00:18:33.325
+concepts,
+relationships between concepts and then
+
+f6616683-7925-4d21-a698-58bfdfaff127-1
+00:18:33.325 --> 00:18:38.657
+using those concepts and relationships to
+respond and you wanna clear grasp of
+
+f6616683-7925-4d21-a698-58bfdfaff127-2
+00:18:38.657 --> 00:18:39.670
+those concepts.
+
+5f623afb-d8b6-4114-910f-1d855ac30511-0
+00:18:40.460 --> 00:18:45.745
+So this is where I can get in the way.
+And you want to be judicial in how you
+
+5f623afb-d8b6-4114-910f-1d855ac30511-1
+00:18:45.745 --> 00:18:49.540
+use it as a tool to help you build that
+deep knowledge.
+
+e7562b9f-82f6-47ef-9c0f-6e8683519d8b-0
+00:18:50.760 --> 00:18:55.564
+So let's talk about putting this into
+action by understanding and applying
+
+e7562b9f-82f6-47ef-9c0f-6e8683519d8b-1
+00:18:55.564 --> 00:18:56.910
+concepts effectively.
+
+e48cae51-35de-49ce-b9f3-3dd3c48cd19d-0
+00:18:58.840 --> 00:19:01.941
+First,
+what do we mean by understanding and
+
+e48cae51-35de-49ce-b9f3-3dd3c48cd19d-1
+00:19:01.941 --> 00:19:06.030
+applying? Don't they mean the same thing?
+No, they don't.
+
+e48cae51-35de-49ce-b9f3-3dd3c48cd19d-2
+00:19:06.030 --> 00:19:10.894
+When we think about understanding,
+we think about defining, stating,
+
+e48cae51-35de-49ce-b9f3-3dd3c48cd19d-3
+00:19:10.894 --> 00:19:15.405
+identifying, summarizing.
+This is one layer of understanding of
+
+e48cae51-35de-49ce-b9f3-3dd3c48cd19d-4
+00:19:15.405 --> 00:19:20.269
+course material. But how do we test that?
+What about the apply part?
+
+e48cae51-35de-49ce-b9f3-3dd3c48cd19d-5
+00:19:20.269 --> 00:19:25.345
+When we think about applying,
+we think about calculating, constructing,
+
+e48cae51-35de-49ce-b9f3-3dd3c48cd19d-6
+00:19:25.345 --> 00:19:29.433
+using, assessing.
+Often students who are really smart and
+
+e48cae51-35de-49ce-b9f3-3dd3c48cd19d-7
+00:19:29.433 --> 00:19:30.350
+really driven
+
+4d1a3422-6953-4124-a2ac-ea77807059a6-0
+00:19:30.830 --> 00:19:35.590
+skip over learning vocabulary and
+learning objectives like define or state
+
+67670b15-1b63-4add-86c2-4f584bae546e-0
+00:19:36.230 --> 00:19:40.300
+almost all of the verbs that are on
+understand because it feels superficial.
+
+67670b15-1b63-4add-86c2-4f584bae546e-1
+00:19:40.300 --> 00:19:42.520
+They want to get right to the application,
+
+6209d370-21de-48f4-aad1-e499a5b8b7d5-0
+00:19:43.600 --> 00:19:48.424
+and oftentimes people do this because
+learning definitions feels kind of
+
+6209d370-21de-48f4-aad1-e499a5b8b7d5-1
+00:19:48.424 --> 00:19:51.597
+remedial.
+But learning vocabulary does not mean
+
+6209d370-21de-48f4-aad1-e499a5b8b7d5-2
+00:19:51.597 --> 00:19:55.562
+engaging with complexity.
+When we think about the nature of
+
+6209d370-21de-48f4-aad1-e499a5b8b7d5-3
+00:19:55.562 --> 00:19:58.801
+complexity,
+you need to understand the component
+
+6209d370-21de-48f4-aad1-e499a5b8b7d5-4
+00:19:58.801 --> 00:20:01.643
+parts,
+because there are a lot of discrete
+
+6209d370-21de-48f4-aad1-e499a5b8b7d5-5
+00:20:01.643 --> 00:20:04.816
+pieces,
+and in order to engage with all of them
+
+6209d370-21de-48f4-aad1-e499a5b8b7d5-6
+00:20:04.816 --> 00:20:08.054
+together,
+you need to be able to understand them
+
+6209d370-21de-48f4-aad1-e499a5b8b7d5-7
+00:20:08.054 --> 00:20:08.979
+fundamentally.
+
+6ba0138b-9c27-4b52-bcab-be8272cd2831-0
+00:20:11.430 --> 00:20:14.264
+Oftentimes,
+students think that good learning means
+
+6ba0138b-9c27-4b52-bcab-be8272cd2831-1
+00:20:14.264 --> 00:20:17.535
+learning the material 1st and then
+testing their knowledge.
+
+6ba0138b-9c27-4b52-bcab-be8272cd2831-2
+00:20:17.535 --> 00:20:21.732
+So a lot of students save practice
+problems for what they feel for what they
+
+6ba0138b-9c27-4b52-bcab-be8272cd2831-3
+00:20:21.732 --> 00:20:24.512
+feel like they've actually learned
+something. Now,
+
+6ba0138b-9c27-4b52-bcab-be8272cd2831-4
+00:20:24.512 --> 00:20:27.946
+that's not a bad way of doing things,
+and there's logic to it,
+
+6ba0138b-9c27-4b52-bcab-be8272cd2831-5
+00:20:27.946 --> 00:20:32.089
+but it can be really hard to start this
+way when learning complex material,
+
+6ba0138b-9c27-4b52-bcab-be8272cd2831-6
+00:20:32.089 --> 00:20:36.613
+especially when the stakes feel high and
+you have a lot of other material to study
+
+6ba0138b-9c27-4b52-bcab-be8272cd2831-7
+00:20:36.613 --> 00:20:37.540
+in other courses.
+
+2d1e4fd5-5846-4956-9f1e-105f085bf276-0
+00:20:38.460 --> 00:20:42.074
+So an approach that we recommend is
+instead to invert the logic.
+
+2d1e4fd5-5846-4956-9f1e-105f085bf276-1
+00:20:42.074 --> 00:20:46.690
+Rather than thinking about learning the
+material and then applying your knowledge,
+
+2d1e4fd5-5846-4956-9f1e-105f085bf276-2
+00:20:46.690 --> 00:20:51.249
+try thinking about applying the questions
+to the material as you are learning it.
+
+5c97bf0d-fb6e-4e82-8019-651d3dadd975-0
+00:20:52.210 --> 00:20:56.779
+Use the questions and practice problems
+as tools for organizing your
+
+5c97bf0d-fb6e-4e82-8019-651d3dadd975-1
+00:20:56.779 --> 00:21:02.208
+understanding of the material and as you
+build up your ability to make use of the
+
+5c97bf0d-fb6e-4e82-8019-651d3dadd975-2
+00:21:02.208 --> 00:21:06.579
+details that you're learning.
+The purpose of doing this is to use
+
+5c97bf0d-fb6e-4e82-8019-651d3dadd975-3
+00:21:06.579 --> 00:21:10.883
+questions as a guide to exploring
+concepts, and as you practice,
+
+5c97bf0d-fb6e-4e82-8019-651d3dadd975-4
+00:21:10.883 --> 00:21:15.584
+applying the concepts to solving problems
+and thinking things through.
+
+5c97bf0d-fb6e-4e82-8019-651d3dadd975-5
+00:21:15.584 --> 00:21:21.213
+So as you're thinking about each question,
+rather than initially trying to answer it
+
+5c97bf0d-fb6e-4e82-8019-651d3dadd975-6
+00:21:21.213 --> 00:21:22.670
+or solve it, try first
+
+660ede3a-6461-4950-84f1-05bf07c795ae-0
+00:21:22.850 --> 00:21:27.898
+identify the components in that question
+that you need to know and then the things
+
+660ede3a-6461-4950-84f1-05bf07c795ae-1
+00:21:27.898 --> 00:21:30.270
+that that question is asking you to do.
+
+18cb197b-fd7a-45d9-b761-754951420b22-0
+00:21:32.210 --> 00:21:35.462
+Through your practice,
+you will encounter problems that are
+
+18cb197b-fd7a-45d9-b761-754951420b22-1
+00:21:35.462 --> 00:21:39.907
+easily solvable and ones that are more
+challenging for the challenging and novel.
+
+18cb197b-fd7a-45d9-b761-754951420b22-2
+00:21:39.907 --> 00:21:44.244
+Once we encourage students to think very
+deliberately about the problem solving
+
+18cb197b-fd7a-45d9-b761-754951420b22-3
+00:21:44.244 --> 00:21:44.570
+steps,
+
+5927d0f6-5c66-4eb8-8e81-de4d4b62cda7-0
+00:21:45.890 --> 00:21:52.282
+step one is understanding the question.
+Read the question carefully and write the
+
+5927d0f6-5c66-4eb8-8e81-de4d4b62cda7-1
+00:21:52.282 --> 00:21:58.129
+data that you are provided in short form.
+Identify variables, terminology,
+
+5927d0f6-5c66-4eb8-8e81-de4d4b62cda7-2
+00:21:58.129 --> 00:22:03.118
+and thinking actions.
+What kinds of thinking are being asked of
+
+5927d0f6-5c66-4eb8-8e81-de4d4b62cda7-3
+00:22:03.118 --> 00:22:03.430
+you?
+
+c77065c7-33ef-46e5-b188-d9d32a3bc73a-0
+00:22:04.180 --> 00:22:08.510
+Are you being asked to recognize, analyze,
+compare?
+
+bd2ad24e-6b78-4f91-9eec-4809ce84bc9d-0
+00:22:09.610 --> 00:22:14.635
+Then you want to review any graphical or
+visual information that's also being
+
+bd2ad24e-6b78-4f91-9eec-4809ce84bc9d-1
+00:22:14.635 --> 00:22:17.792
+provided,
+and then you want to attempt to answer
+
+bd2ad24e-6b78-4f91-9eec-4809ce84bc9d-2
+00:22:17.792 --> 00:22:23.075
+that question. What are the components?
+Every concept it touches lists those out.
+
+bd2ad24e-6b78-4f91-9eec-4809ce84bc9d-3
+00:22:23.075 --> 00:22:26.361
+What theory or rules are you being asked
+to apply?
+
+bd2ad24e-6b78-4f91-9eec-4809ce84bc9d-4
+00:22:26.361 --> 00:22:29.969
+Can you state the relationships between
+these concepts?
+
+bd2ad24e-6b78-4f91-9eec-4809ce84bc9d-5
+00:22:29.969 --> 00:22:33.255
+And what are you being asked to do with
+all of it?
+
+bd2ad24e-6b78-4f91-9eec-4809ce84bc9d-6
+00:22:33.255 --> 00:22:37.249
+Write these answers down rather than
+doing this in your head,
+
+bd2ad24e-6b78-4f91-9eec-4809ce84bc9d-7
+00:22:37.249 --> 00:22:40.020
+because what this allows you to do is
+make
+
+9c4ab416-cf4b-468c-a3a7-f76d3c6db120-0
+00:22:40.090 --> 00:22:41.750
+construction vision visible
+
+14cfaaa1-3eb2-45b9-995d-d47ea5b2670c-0
+00:22:42.420 --> 00:22:46.364
+and make.
+Writing that list on paper is a way to
+
+14cfaaa1-3eb2-45b9-995d-d47ea5b2670c-1
+00:22:46.364 --> 00:22:50.229
+get at what feels good and where your
+gaps are.
+
+14cfaaa1-3eb2-45b9-995d-d47ea5b2670c-2
+00:22:50.229 --> 00:22:54.093
+This frequently unsticks the problem by
+itself,
+
+14cfaaa1-3eb2-45b9-995d-d47ea5b2670c-3
+00:22:54.093 --> 00:23:00.533
+and a question that looked impenetrable
+often turns out to be 3 things you know
+
+14cfaaa1-3eb2-45b9-995d-d47ea5b2670c-4
+00:23:00.533 --> 00:23:03.110
+arranged in an unfamiliar order.
+
+1e03a79f-a87a-405e-890b-fa1af4fa0e92-0
+00:23:03.940 --> 00:23:07.623
+Also,
+when you are thinking about places where
+
+1e03a79f-a87a-405e-890b-fa1af4fa0e92-1
+00:23:07.623 --> 00:23:11.385
+you're stuck,
+that's a point when to engage AI.
+
+1e03a79f-a87a-405e-890b-fa1af4fa0e92-2
+00:23:11.385 --> 00:23:17.498
+Not just asking the entire question,
+but thinking about exactly where you are
+
+1e03a79f-a87a-405e-890b-fa1af4fa0e92-3
+00:23:17.498 --> 00:23:21.260
+and that component that you're concerned
+about.
+
+41298746-077b-4d42-929a-3eca91f11fe0-0
+00:23:23.730 --> 00:23:28.130
+So if you get stuck,
+do you have enough information and data
+
+41298746-077b-4d42-929a-3eca91f11fe0-1
+00:23:28.130 --> 00:23:32.891
+to answer the question?
+Have you understood the question clearly?
+
+41298746-077b-4d42-929a-3eca91f11fe0-2
+00:23:32.891 --> 00:23:38.374
+Reflect on what rules or equations or
+theories or approaches you learned in
+
+41298746-077b-4d42-929a-3eca91f11fe0-3
+00:23:38.374 --> 00:23:41.548
+class that might apply here.
+List them off.
+
+41298746-077b-4d42-929a-3eca91f11fe0-4
+00:23:41.548 --> 00:23:47.103
+Can you break the problem into steps?
+Those that you know and those that are
+
+41298746-077b-4d42-929a-3eca91f11fe0-5
+00:23:47.103 --> 00:23:51.503
+unclear, Hint, hint.
+That unclear part is where you're going
+
+41298746-077b-4d42-929a-3eca91f11fe0-6
+00:23:51.503 --> 00:23:53.740
+to go back to your material, or
+
+3a8695cf-72bd-47b9-98ae-efff074ace1a-0
+00:23:53.930 --> 00:23:58.050
+ask a Prof, a TA, a tutor,
+or engage with AI
+
+584423f5-f411-4bfc-81c6-784d74fb064b-0
+00:23:59.240 --> 00:24:05.380
+and then think about what within your
+coursework so far resembles this problem.
+
+4bf415b9-c82b-42e4-a5dc-caa3e5118095-0
+00:24:10.900 --> 00:24:12.110
+Now this is the part
+
+7b7d606a-5a38-405c-8d34-98108c25506a-0
+00:24:12.940 --> 00:24:16.366
+that decides whether step three helps or
+hurts.
+
+7b7d606a-5a38-405c-8d34-98108c25506a-1
+00:24:16.366 --> 00:24:21.076
+Reading through a worked solution is
+nearly worthless, and worse,
+
+7b7d606a-5a38-405c-8d34-98108c25506a-2
+00:24:21.076 --> 00:24:25.216
+it feels productive,
+and it makes sense as you go and you
+
+7b7d606a-5a38-405c-8d34-98108c25506a-3
+00:24:25.216 --> 00:24:30.569
+finish believing you could do it.
+But it actually doesn't mean that you've
+
+7b7d606a-5a38-405c-8d34-98108c25506a-4
+00:24:30.569 --> 00:24:33.996
+learned it.
+You want to be able to work it out,
+
+7b7d606a-5a38-405c-8d34-98108c25506a-5
+00:24:33.996 --> 00:24:38.350
+writing out every step in your own hand
+as you follow along.
+
+daacf080-2d49-4177-be4f-3395e0a95dd9-0
+00:24:40.880 --> 00:24:46.805
+Now at each step you're going to stop and
+ask the question, why am I doing this?
+
+daacf080-2d49-4177-be4f-3395e0a95dd9-1
+00:24:46.805 --> 00:24:51.194
+What is this step for,
+and how does it fit into solving the
+
+daacf080-2d49-4177-be4f-3395e0a95dd9-2
+00:24:51.194 --> 00:24:51.780
+problem?
+
+44cd4d05-5f87-469f-bd0d-eb7609d4b060-0
+00:24:53.070 --> 00:24:57.606
+If you cannot answer,
+you have found the exact point where you
+
+44cd4d05-5f87-469f-bd0d-eb7609d4b060-1
+00:24:57.606 --> 00:25:02.070
+are copying rather than understanding.
+Then close the sample,
+
+44cd4d05-5f87-469f-bd0d-eb7609d4b060-2
+00:25:02.070 --> 00:25:07.039
+go back to your own problem,
+and apply what you've learned about the
+
+44cd4d05-5f87-469f-bd0d-eb7609d4b060-3
+00:25:07.039 --> 00:25:10.423
+approach rather than reproducing what you
+saw.
+
+44cd4d05-5f87-469f-bd0d-eb7609d4b060-4
+00:25:10.423 --> 00:25:16.040
+This is the difference between having a
+method and having memorized a method.
+
+17a83828-232c-43dc-b38e-0d69bf253822-0
+00:25:16.920 --> 00:25:19.922
+So when you think about reflect and
+review,
+
+17a83828-232c-43dc-b38e-0d69bf253822-1
+00:25:19.922 --> 00:25:23.060
+it's not just about getting the right
+answer.
+
+17a83828-232c-43dc-b38e-0d69bf253822-2
+00:25:23.060 --> 00:25:27.290
+You want to reflect on what you know and
+what you don't know,
+
+17a83828-232c-43dc-b38e-0d69bf253822-3
+00:25:27.290 --> 00:25:31.384
+and that's what's going to help you ace
+future assessments.
+
+17a83828-232c-43dc-b38e-0d69bf253822-4
+00:25:31.384 --> 00:25:34.795
+Are there patterns in problem solving
+challenges?
+
+17a83828-232c-43dc-b38e-0d69bf253822-5
+00:25:34.795 --> 00:25:40.117
+Is there a concept that you are unclear
+on and that you need more support on?
+
+17a83828-232c-43dc-b38e-0d69bf253822-6
+00:25:40.117 --> 00:25:43.255
+This is when you can start using other
+tools,
+
+17a83828-232c-43dc-b38e-0d69bf253822-7
+00:25:43.255 --> 00:25:46.939
+but you really want to do is get into
+these component
+
+0a63a376-1ec6-4d59-bac9-967f1b4bdf57-0
+00:25:47.010 --> 00:25:50.810
+problems before asking AI for support.
+
+ce1cfbdb-7adb-4526-a6cc-126a90892d45-0
+00:25:52.750 --> 00:25:56.529
+And are there any traps that you need to
+watch out for?
+
+ce1cfbdb-7adb-4526-a6cc-126a90892d45-1
+00:25:56.529 --> 00:26:01.456
+Do you make the same mistake over and
+over again and can you explain the
+
+ce1cfbdb-7adb-4526-a6cc-126a90892d45-2
+00:26:01.456 --> 00:26:04.493
+problem and translate the problem to a
+peer?
+
+ce1cfbdb-7adb-4526-a6cc-126a90892d45-3
+00:26:04.493 --> 00:26:09.892
+One thing to take from these three steps
+is that they are layered deliberately.
+
+ce1cfbdb-7adb-4526-a6cc-126a90892d45-4
+00:26:09.892 --> 00:26:14.953
+This order is going to really work.
+Going straight to work solution when a
+
+ce1cfbdb-7adb-4526-a6cc-126a90892d45-5
+00:26:14.953 --> 00:26:20.487
+problem was actually a concept gap wastes
+the sample problem and teaches nothing.
+
+ce1cfbdb-7adb-4526-a6cc-126a90892d45-6
+00:26:20.487 --> 00:26:23.120
+And this is where AI can get in the way
+
+9da0a9c0-948a-4078-aff3-4f69aa067412-0
+00:26:23.220 --> 00:26:26.010
+of getting to the good meat of learning.
+
+7ef75b92-ff36-4b99-966c-e36b23b83f74-0
+00:26:26.990 --> 00:26:32.315
+Rereading the chapter where you had a
+skill gap also waste time and sometimes
+
+7ef75b92-ff36-4b99-966c-e36b23b83f74-1
+00:26:32.315 --> 00:26:36.617
+waste a lot of time.
+So you need to follow each of these steps
+
+7ef75b92-ff36-4b99-966c-e36b23b83f74-2
+00:26:36.617 --> 00:26:40.100
+to figure out exactly where the pain
+point gap is.
+
+216fb808-c63c-4172-9652-2a9f658b9e71-0
+00:26:42.240 --> 00:26:46.811
+Remember that discussion about
+understanding and applying and moving
+
+216fb808-c63c-4172-9652-2a9f658b9e71-1
+00:26:46.811 --> 00:26:50.587
+between the two? Well,
+if you haven't seen this already,
+
+216fb808-c63c-4172-9652-2a9f658b9e71-2
+00:26:50.587 --> 00:26:54.828
+this is Blooms Taxonomy.
+This is the way we understand material
+
+216fb808-c63c-4172-9652-2a9f658b9e71-3
+00:26:54.828 --> 00:26:59.399
+from the very foundational just
+remembering to the ability to create
+
+216fb808-c63c-4172-9652-2a9f658b9e71-4
+00:26:59.399 --> 00:27:04.235
+something new out of the material.
+But this isn't a one way process from
+
+216fb808-c63c-4172-9652-2a9f658b9e71-5
+00:27:04.235 --> 00:27:08.409
+remembering to creating. In fact,
+as we are learning material,
+
+216fb808-c63c-4172-9652-2a9f658b9e71-6
+00:27:08.409 --> 00:27:12.650
+we need to loop back through different
+levels of understanding,
+
+383fbc34-3b8b-4d85-bfb9-c67a714cfd41-0
+00:27:12.730 --> 00:27:16.896
+go back to definitions,
+try to remember what those definitions
+
+383fbc34-3b8b-4d85-bfb9-c67a714cfd41-1
+00:27:16.896 --> 00:27:19.938
+mean,
+challenging ourselves to understand it,
+
+383fbc34-3b8b-4d85-bfb9-c67a714cfd41-2
+00:27:19.938 --> 00:27:23.378
+go back and apply,
+analyze what components we don't
+
+383fbc34-3b8b-4d85-bfb9-c67a714cfd41-3
+00:27:23.378 --> 00:27:26.751
+understand,
+and go back and remember and challenge
+
+383fbc34-3b8b-4d85-bfb9-c67a714cfd41-4
+00:27:26.751 --> 00:27:28.140
+those concepts again.
+
+510ef095-a095-4d4d-b088-f297c27afbd1-0
+00:27:28.870 --> 00:27:33.776
+So it really is an iterative process and
+one that you're going to want to engage
+
+510ef095-a095-4d4d-b088-f297c27afbd1-1
+00:27:33.776 --> 00:27:36.320
+with as you work on those sample problems.
+
+dea8b0c5-ab2e-47f8-8dc0-c54183e57dc6-0
+00:27:37.610 --> 00:27:40.868
+Now,
+in a complex problem solving course like
+
+dea8b0c5-ab2e-47f8-8dc0-c54183e57dc6-1
+00:27:40.868 --> 00:27:44.552
+Stats 237,
+a common trap that students fall into is
+
+dea8b0c5-ab2e-47f8-8dc0-c54183e57dc6-2
+00:27:44.552 --> 00:27:48.307
+plug and chug,
+where they're taking information from
+
+dea8b0c5-ab2e-47f8-8dc0-c54183e57dc6-3
+00:27:48.307 --> 00:27:54.045
+slides or the board without a structure.
+They ask their friends or AI to solve a
+
+dea8b0c5-ab2e-47f8-8dc0-c54183e57dc6-4
+00:27:54.045 --> 00:27:59.499
+problem for them and they just remember
+the steps and memorize the solution.
+
+dea8b0c5-ab2e-47f8-8dc0-c54183e57dc6-5
+00:27:59.499 --> 00:28:03.962
+We don't want to do that.
+And that's a real danger of using AI
+
+dea8b0c5-ab2e-47f8-8dc0-c54183e57dc6-6
+00:28:03.962 --> 00:28:07.930
+where it might look like it gives you
+steps to applying
+
+04d16d68-ba7c-4274-9e7c-9b8ac8b34f29-0
+00:28:08.000 --> 00:28:11.096
+no problem.
+But when those problems get much more
+
+04d16d68-ba7c-4274-9e7c-9b8ac8b34f29-1
+00:28:11.096 --> 00:28:15.616
+complex, the steps fall apart.
+And so you can miss the main point of how
+
+04d16d68-ba7c-4274-9e7c-9b8ac8b34f29-2
+00:28:15.616 --> 00:28:18.713
+formulas and concepts connect and can be
+applied.
+
+04d16d68-ba7c-4274-9e7c-9b8ac8b34f29-3
+00:28:18.713 --> 00:28:23.048
+And you have this illusion of
+understanding that you can follow along
+
+04d16d68-ba7c-4274-9e7c-9b8ac8b34f29-4
+00:28:23.048 --> 00:28:28.126
+because you recognize what's being done,
+but you're just kind of plugging numbers
+
+04d16d68-ba7c-4274-9e7c-9b8ac8b34f29-5
+00:28:28.126 --> 00:28:33.265
+into somebody else's decision making and
+thinking rather than the ability to do it
+
+04d16d68-ba7c-4274-9e7c-9b8ac8b34f29-6
+00:28:33.265 --> 00:28:36.362
+yourself.
+So it can be very easy to miss the main
+
+04d16d68-ba7c-4274-9e7c-9b8ac8b34f29-7
+00:28:36.362 --> 00:28:38.220
+point of some of these pieces,
+
+2d8f751a-7f24-48f7-8ff5-42f01fb04b17-0
+00:28:38.500 --> 00:28:43.537
+and you risk hunting for formulas instead
+of understanding and deliberately
+
+2d8f751a-7f24-48f7-8ff5-42f01fb04b17-1
+00:28:43.537 --> 00:28:44.730
+applying concepts.
+
+7c330408-1199-4bfd-a0b6-6378827924e0-0
+00:28:46.400 --> 00:28:52.850
+Now it's time for our second keyword,
+and that second keyword is Pyramid.
+
+7da45175-c94c-4508-b09e-1d239ecc56d8-0
+00:28:54.290 --> 00:28:59.723
+Let's talk about creating some notes that
+are really good for you to come back to
+
+7da45175-c94c-4508-b09e-1d239ecc56d8-1
+00:28:59.723 --> 00:29:03.367
+and keeping track of all those concepts
+that you have.
+
+7da45175-c94c-4508-b09e-1d239ecc56d8-2
+00:29:03.367 --> 00:29:08.137
+So the exact format is flexible,
+but these are the component parts that
+
+7da45175-c94c-4508-b09e-1d239ecc56d8-3
+00:29:08.137 --> 00:29:12.842
+you want to be able to reference and have
+access to in your own words.
+
+7da45175-c94c-4508-b09e-1d239ecc56d8-4
+00:29:12.842 --> 00:29:17.546
+The idea is you want to collect
+information about a concept all in one
+
+7da45175-c94c-4508-b09e-1d239ecc56d8-5
+00:29:17.546 --> 00:29:20.594
+place,
+organized in a way that makes sense to
+
+7da45175-c94c-4508-b09e-1d239ecc56d8-6
+00:29:20.594 --> 00:29:23.509
+you,
+and you want to be able to create this
+
+7da45175-c94c-4508-b09e-1d239ecc56d8-7
+00:29:23.509 --> 00:29:25.099
+study guide for yourself
+
+b7759ffc-7b69-4c4a-a68c-ad89b37f7686-0
+00:29:25.190 --> 00:29:27.220
+for all the concepts in your course.
+
+d3e7669d-3f5d-4284-8c83-ed45856c3019-0
+00:29:28.330 --> 00:29:31.850
+You can also relate it to the course
+learning outcomes.
+
+d3e7669d-3f5d-4284-8c83-ed45856c3019-1
+00:29:31.850 --> 00:29:37.132
+Those are a great place to start to think
+about what those concepts are and how you
+
+d3e7669d-3f5d-4284-8c83-ed45856c3019-2
+00:29:37.132 --> 00:29:40.149
+might want to create a concept summary
+pyramid.
+
+d3e7669d-3f5d-4284-8c83-ed45856c3019-3
+00:29:40.149 --> 00:29:43.922
+So the idea behind that pyramid is
+starting with the title,
+
+d3e7669d-3f5d-4284-8c83-ed45856c3019-4
+00:29:43.922 --> 00:29:48.763
+identifying key formulas and equations,
+identifying the definitions that you
+
+d3e7669d-3f5d-4284-8c83-ed45856c3019-5
+00:29:48.763 --> 00:29:53.478
+might want to add to those flash cards
+and then think about that important
+
+d3e7669d-3f5d-4284-8c83-ed45856c3019-6
+00:29:53.478 --> 00:29:56.811
+information.
+Those can be things like special cases,
+
+d3e7669d-3f5d-4284-8c83-ed45856c3019-7
+00:29:56.811 --> 00:29:58.319
+when to use this concept
+
+41348e7b-4e3b-4fac-a495-7ba84dac2ad7-0
+00:29:58.520 --> 00:30:01.800
+and connections with other related
+concepts.
+
+5409b0c4-d268-487e-91c6-76615d60af3a-0
+00:30:02.680 --> 00:30:07.270
+Then you're going to want to provide an
+explanation in your own words.
+
+5409b0c4-d268-487e-91c6-76615d60af3a-1
+00:30:07.270 --> 00:30:12.506
+This is another piece that needs to be
+done by you and only you Don't use AI for
+
+5409b0c4-d268-487e-91c6-76615d60af3a-2
+00:30:12.506 --> 00:30:16.903
+this because part of the learning is
+creating your own explanation.
+
+5409b0c4-d268-487e-91c6-76615d60af3a-3
+00:30:16.903 --> 00:30:20.329
+If you can't explain it,
+it means you don't know it.
+
+5409b0c4-d268-487e-91c6-76615d60af3a-4
+00:30:20.329 --> 00:30:24.790
+And then the last piece is providing a
+simple example. Now remember,
+
+5409b0c4-d268-487e-91c6-76615d60af3a-5
+00:30:24.790 --> 00:30:30.091
+these are the examples that you're going
+to return to when you get stuck on those
+
+5409b0c4-d268-487e-91c6-76615d60af3a-6
+00:30:30.091 --> 00:30:33.776
+difficult problems.
+You're going to want to not just use
+
+5409b0c4-d268-487e-91c6-76615d60af3a-7
+00:30:33.776 --> 00:30:34.100
+these
+
+47fda11c-dc02-4a14-ad34-77d07142560e-0
+00:30:34.170 --> 00:30:39.572
+simple examples as plug and chug models,
+but you're going to want to explain what
+
+47fda11c-dc02-4a14-ad34-77d07142560e-1
+00:30:39.572 --> 00:30:42.340
+you're doing in each step of that example.
+
+a8d758ba-a860-4cca-88f3-7d1df1eaaca9-0
+00:30:43.370 --> 00:30:48.239
+This is a quick example of what a concept
+summary pyramid would include for a
+
+a8d758ba-a860-4cca-88f3-7d1df1eaaca9-1
+00:30:48.239 --> 00:30:51.985
+concept like sample variance and sample
+standard deviation.
+
+a8d758ba-a860-4cca-88f3-7d1df1eaaca9-2
+00:30:51.985 --> 00:30:56.167
+You'd want to include your definitions of
+sample, sample variance,
+
+a8d758ba-a860-4cca-88f3-7d1df1eaaca9-3
+00:30:56.167 --> 00:31:01.162
+sample standard deviation on all other
+related terms in here so that you really
+
+a8d758ba-a860-4cca-88f3-7d1df1eaaca9-4
+00:31:01.162 --> 00:31:05.532
+are connecting these pieces.
+You then want to also put these concepts
+
+a8d758ba-a860-4cca-88f3-7d1df1eaaca9-5
+00:31:05.532 --> 00:31:09.465
+into your own words in any way that helps
+you understand them.
+
+a8d758ba-a860-4cca-88f3-7d1df1eaaca9-6
+00:31:09.465 --> 00:31:13.960
+And then you'll want to find examples of
+computation of sample variance
+
+4bd43206-c3eb-4540-8f2f-f4ab33a4b909-0
+00:31:14.030 --> 00:31:19.342
+and deviation and interpretations of
+trends and other examples that relate to
+
+4bd43206-c3eb-4540-8f2f-f4ab33a4b909-1
+00:31:19.342 --> 00:31:22.952
+this concept.
+Something that you might want to do is
+
+4bd43206-c3eb-4540-8f2f-f4ab33a4b909-2
+00:31:22.952 --> 00:31:27.311
+build these concepts,
+summary pyramids or notes with friends so
+
+4bd43206-c3eb-4540-8f2f-f4ab33a4b909-3
+00:31:27.311 --> 00:31:32.829
+that way you can support your learning
+and also divide and accomplish how you're
+
+4bd43206-c3eb-4540-8f2f-f4ab33a4b909-4
+00:31:32.829 --> 00:31:34.600
+creating these good notes.
+
+f665e674-5e2f-4011-8100-9e4987e1ef36-0
+00:31:35.670 --> 00:31:37.220
+Now remember,
+
+41693c2c-5c7e-4562-b893-1f3955f4389b-0
+00:31:38.550 --> 00:31:43.003
+AI can be risky to use,
+not because it's not a great tool,
+
+41693c2c-5c7e-4562-b893-1f3955f4389b-1
+00:31:43.003 --> 00:31:48.212
+but reading AI generated solutions
+instead of attempting the problem
+
+41693c2c-5c7e-4562-b893-1f3955f4389b-2
+00:31:48.212 --> 00:31:53.421
+yourself can feel productive.
+It feels like practice, but it is not.
+
+41693c2c-5c7e-4562-b893-1f3955f4389b-3
+00:31:53.421 --> 00:31:59.460
+So there's a real difficulty in learning,
+and attempting to learn is the entire
+
+41693c2c-5c7e-4562-b893-1f3955f4389b-4
+00:31:59.460 --> 00:32:04.895
+value of doing that yourself.
+Rereading AI generated solutions is a big
+
+41693c2c-5c7e-4562-b893-1f3955f4389b-5
+00:32:04.895 --> 00:32:08.670
+waste of time when you're trying to be
+efficient,
+
+1cc4ea19-d3de-4590-8750-f48834306828-0
+00:32:08.760 --> 00:32:10.420
+ineffective in your learning.
+
+8e48cee3-753b-4f7e-9412-d87fa195b963-0
+00:32:12.460 --> 00:32:16.222
+So we hope that we've convinced you that
+AI can be a tool,
+
+8e48cee3-753b-4f7e-9412-d87fa195b963-1
+00:32:16.222 --> 00:32:21.133
+but we need to use it judiciously and
+cautiously. Oftentimes when we use it,
+
+8e48cee3-753b-4f7e-9412-d87fa195b963-2
+00:32:21.133 --> 00:32:25.725
+it gets answers too early and it can
+interrupt our brains processing of
+
+8e48cee3-753b-4f7e-9412-d87fa195b963-3
+00:32:25.725 --> 00:32:30.763
+material and our ability to retain and
+encode information in a way that really
+
+8e48cee3-753b-4f7e-9412-d87fa195b963-4
+00:32:30.763 --> 00:32:32.230
+sets us up for success.
+
+71e1e180-160e-4d30-8184-b0d162761539-0
+00:32:32.940 --> 00:32:38.048
+Learning is more than memorizing,
+and so you need to actively retrieve,
+
+71e1e180-160e-4d30-8184-b0d162761539-1
+00:32:38.048 --> 00:32:42.233
+reflect and connect ideas.
+And so thinking about using AI,
+
+71e1e180-160e-4d30-8184-b0d162761539-2
+00:32:42.233 --> 00:32:47.554
+we can think about what are some
+effective principles to put into practice
+
+71e1e180-160e-4d30-8184-b0d162761539-3
+00:32:47.554 --> 00:32:52.450
+if you're going to be using AI and where
+that fits in your learning.
+
+8f1451d9-f6c5-4c24-8e4b-5be928a74787-0
+00:32:55.440 --> 00:32:59.110
+First,
+you're going to always want to check with
+
+8f1451d9-f6c5-4c24-8e4b-5be928a74787-1
+00:32:59.110 --> 00:33:03.155
+your instructors on what AI use is and
+isn't allowed.
+
+8f1451d9-f6c5-4c24-8e4b-5be928a74787-2
+00:33:03.155 --> 00:33:08.024
+But then if I use is allowed,
+you're going to want to try to use
+
+8f1451d9-f6c5-4c24-8e4b-5be928a74787-3
+00:33:08.024 --> 00:33:13.717
+supportive prompts to self test and
+encourage you to engage in that problem
+
+8f1451d9-f6c5-4c24-8e4b-5be928a74787-4
+00:33:13.717 --> 00:33:19.560
+solving as opposed to deskilling and
+limiting your ability to do that problem
+
+8f1451d9-f6c5-4c24-8e4b-5be928a74787-5
+00:33:19.560 --> 00:33:20.160
+solving.
+
+4b1b0b1c-6d0e-4407-94fd-c1b92d935f05-0
+00:33:21.420 --> 00:33:25.760
+So instead of asking AI to solve this
+problem,
+
+3c67e30e-8336-4f16-a29f-141a9dad4879-0
+00:33:26.520 --> 00:33:32.410
+instead try the following prompt.
+Ask me 3 questions a confused classmate
+
+3c67e30e-8336-4f16-a29f-141a9dad4879-1
+00:33:32.410 --> 00:33:36.391
+might have,
+or identify the errors in my work but
+
+3c67e30e-8336-4f16-a29f-141a9dad4879-2
+00:33:36.391 --> 00:33:38.620
+don't give me a final answer
+
+44c74252-fadb-42e2-9b06-9cc3a645b37a-0
+00:33:39.230 --> 00:33:42.640
+for.
+Give me a list of things I can check to
+
+44c74252-fadb-42e2-9b06-9cc3a645b37a-1
+00:33:42.640 --> 00:33:47.566
+verify my own answers.
+These are ways that you can use AI almost
+
+44c74252-fadb-42e2-9b06-9cc3a645b37a-2
+00:33:47.566 --> 00:33:53.250
+as a study buddy as opposed to somebody
+who's just giving you the answers.
+
+07186fe6-61fe-4cba-bdf8-f0c09ee67cdd-0
+00:33:54.810 --> 00:33:58.266
+Instead of also saying where did I make a
+mistake with this problem,
+
+07186fe6-61fe-4cba-bdf8-f0c09ee67cdd-1
+00:33:58.266 --> 00:34:00.320
+you might want to consider the following.
+
+b2dfa090-fec7-4ebc-b6b1-213e06a7a88b-0
+00:34:01.110 --> 00:34:06.990
+Here was my reasoning at each step.
+Give me feedback on my rationale and ask
+
+b2dfa090-fec7-4ebc-b6b1-213e06a7a88b-1
+00:34:06.990 --> 00:34:12.717
+me questions to help me refine it.
+Or you can ask use this question format
+
+b2dfa090-fec7-4ebc-b6b1-213e06a7a88b-2
+00:34:12.717 --> 00:34:18.062
+to create more questions with X concepts
+to support my understanding.
+
+b2dfa090-fec7-4ebc-b6b1-213e06a7a88b-3
+00:34:18.062 --> 00:34:22.109
+Don't give me the answers but help me
+problem solve.
+
+ac4d6ec5-85ac-4e1f-9eee-f5d997d84433-0
+00:34:25.230 --> 00:34:31.610
+The last thing is instead of asking AI to
+explain relationships between things,
+
+ac4d6ec5-85ac-4e1f-9eee-f5d997d84433-1
+00:34:31.610 --> 00:34:37.911
+give your own explanation and then ask AI
+to ask you 3 questions to probe your
+
+ac4d6ec5-85ac-4e1f-9eee-f5d997d84433-2
+00:34:37.911 --> 00:34:42.218
+understanding.
+Ask it to not rewrite or define things
+
+ac4d6ec5-85ac-4e1f-9eee-f5d997d84433-3
+00:34:42.218 --> 00:34:46.206
+for you.
+You can also ask it to name 1 case where
+
+ac4d6ec5-85ac-4e1f-9eee-f5d997d84433-4
+00:34:46.206 --> 00:34:51.789
+my explanation wouldn't apply.
+And these are ways that you can engage
+
+ac4d6ec5-85ac-4e1f-9eee-f5d997d84433-5
+00:34:51.789 --> 00:34:54.740
+with AI, but where AI is still asking
+
+e5840a32-0d15-4ed4-aa52-d44c08bf327b-0
+00:34:54.810 --> 00:34:58.020
+you to do the bulk of the work and
+learning.
+
+2881192a-4b6d-4fe6-b682-709dcda8b252-0
+00:34:59.810 --> 00:35:03.323
+Now, remember,
+all of these strategies are adaptable and
+
+2881192a-4b6d-4fe6-b682-709dcda8b252-1
+00:35:03.323 --> 00:35:06.220
+can be used by you in multiple different
+ways.
+
+2881192a-4b6d-4fe6-b682-709dcda8b252-2
+00:35:06.220 --> 00:35:09.241
+So we encourage you to try these
+strategies out,
+
+2881192a-4b6d-4fe6-b682-709dcda8b252-3
+00:35:09.241 --> 00:35:13.556
+change them where you need them to change.
+And if you have questions,
+
+2881192a-4b6d-4fe6-b682-709dcda8b252-4
+00:35:13.556 --> 00:35:18.549
+you could always book an appointment with
+a learning strategist or attend any of
+
+2881192a-4b6d-4fe6-b682-709dcda8b252-5
+00:35:18.549 --> 00:35:23.542
+our workshops or sessions to engage with
+this material and better understand how
+
+2881192a-4b6d-4fe6-b682-709dcda8b252-6
+00:35:23.542 --> 00:35:25.330
+it can work in your learning.
+
+a73ada30-4fa7-4513-a00f-5b17c0b9831b-0
+00:35:26.270 --> 00:35:30.875
+Now, last but not least,
+we've talked about a lot of different
+
+a73ada30-4fa7-4513-a00f-5b17c0b9831b-1
+00:35:30.875 --> 00:35:36.869
+behaviors and things to do to learn well.
+And building a routine in which you can
+
+a73ada30-4fa7-4513-a00f-5b17c0b9831b-2
+00:35:36.869 --> 00:35:40.817
+do these things regularly is important
+and essential.
+
+a73ada30-4fa7-4513-a00f-5b17c0b9831b-3
+00:35:40.817 --> 00:35:45.276
+So try to allocate regular time each week
+to actively study,
+
+a73ada30-4fa7-4513-a00f-5b17c0b9831b-4
+00:35:45.276 --> 00:35:50.247
+make those concept pyramids,
+do practice problems and test yourself
+
+a73ada30-4fa7-4513-a00f-5b17c0b9831b-5
+00:35:50.247 --> 00:35:55.511
+with those learning outcomes,
+and even maybe have AI help you challenge
+
+a73ada30-4fa7-4513-a00f-5b17c0b9831b-6
+00:35:55.511 --> 00:35:56.900
+your understanding.
+
+491689d5-7498-422b-93db-16744ee1cb23-0
+00:35:57.370 --> 00:36:02.616
+Joining a study group can be a great way
+to protect regular study time and a way
+
+491689d5-7498-422b-93db-16744ee1cb23-1
+00:36:02.616 --> 00:36:07.927
+to teach one another and share notes in a
+way where you're all doing the thinking
+
+491689d5-7498-422b-93db-16744ee1cb23-2
+00:36:07.927 --> 00:36:08.510
+together.
+
+e2d4aa38-2a47-4b07-b4b8-1f28149c6476-0
+00:36:10.730 --> 00:36:13.690
+And that's it for today.
+Thank you for joining us.
+
+e2d4aa38-2a47-4b07-b4b8-1f28149c6476-1
+00:36:13.690 --> 00:36:18.393
+We hope this was helpful and keep an eye
+out for the three videos that we'll put
+
+e2d4aa38-2a47-4b07-b4b8-1f28149c6476-2
+00:36:18.393 --> 00:36:22.573
+together so you can review the
+information as you're moving through the
+
+e2d4aa38-2a47-4b07-b4b8-1f28149c6476-3
+00:36:22.573 --> 00:36:22.980
+course.
+
+fb580bc0-4b13-4e18-bdba-06049719fe78-0
+00:36:23.670 --> 00:36:26.999
+To show that you have watched the entire
+video,
+
+fb580bc0-4b13-4e18-bdba-06049719fe78-1
+00:36:26.999 --> 00:36:32.617
+please fill in the asynchronous session
+pop quiz by either following the QR code
+
+fb580bc0-4b13-4e18-bdba-06049719fe78-2
+00:36:32.617 --> 00:36:35.530
+or typing that link into your web browser.
+
+44e1ae49-fdee-4901-8787-aa4d7fdc538a-0
+00:36:36.620 --> 00:36:38.830
+All the best with Staff 237.
